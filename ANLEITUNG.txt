@@ -1,0 +1,13 @@
+PirnaSmart 5 – Version mit icons-Unterordner
+
+Ordnerstruktur:
+index.html
+events.json
+parkflaechen.json
+manifest.webmanifest
+service-worker.js
+icons/icon-180.png
+icons/icon-192.png
+icons/icon-512.png
+
+WICHTIG: Auf GitHub muss der Unterordner icons bestehen und die drei PNG-Dateien darin liegen. Nicht nur die PNG-Dateien ins Stammverzeichnis hochladen. Die ZIP selbst nicht hochladen.
